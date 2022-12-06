@@ -32,7 +32,7 @@
 
 
 ## Página de Login
-> Após o usuário se cadatrar ele podera usar os benefícios de acordo com a sua assinatura.
+> Após o usuário se cadastrar ele podera usar os benefícios de acordo com a sua assinatura.
 
 
 
